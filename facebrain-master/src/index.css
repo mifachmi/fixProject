@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'IBM Plex Sans',
+  sans-serif;
+  
+  background: linear-gradient(89deg, #7a9ce6 0%, #1dce7e 100%);
+  background-image: url(flare.jpg);
+}
+
+button{
+	cursor: pointer;
+}
